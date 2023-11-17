@@ -5,7 +5,7 @@ A backend system to store student information
 - Java
 - Spring Boot
 - REST API
-- Postgres
+- MySQL
 - JPA
 
 ## Features
